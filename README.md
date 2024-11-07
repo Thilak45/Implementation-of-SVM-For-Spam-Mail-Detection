@@ -27,7 +27,7 @@ Step 8. Find the accuracy of the model.
 Step 9. End the Program.
 
 ## Program:
-```
+
 
 /*
 Program to implement the SVM For Spam Mail Detection..
@@ -74,7 +74,7 @@ from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 
-```
+
 
 
 ## Output:
