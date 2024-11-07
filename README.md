@@ -38,6 +38,7 @@ RegisterNumber: 212223240172
 
 
 import pandas as pd
+
 data=pd.read_csv("Exp_11_spam.csv",encoding='windows-1252')
 
 data.head()
@@ -69,6 +70,7 @@ y_pred
 from sklearn import metrics
 accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
+
 
 
 ## Output:
