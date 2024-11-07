@@ -34,9 +34,9 @@ Step 9. End the Program.
 /*
 Program to implement the SVM For Spam Mail Detection..
 
-Developed by : RAGALA SAI VIVEK
+Developed by : VELLACHI TILAK
 
-RegisterNumber: 212223230163
+RegisterNumber: 212223240172
 */
 
 
